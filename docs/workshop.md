@@ -1,5 +1,5 @@
 ## Workshop
-> Check steam.md for brief information
+> Check steam.md for brief information.
 
 The [Steam](https://store.steampowered.com/) workshop is a built-in addon manager for games. To download there, go to the community hub in [Steam](https://store.steampowered.com/), and click Workshop. In there, click on any addon/mod you want to install, and then click on the button **Subscribe**. Make sure to restart your game after that.
 
