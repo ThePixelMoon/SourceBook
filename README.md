@@ -1,2 +1,2 @@
 # SourceBook
- a whole book for all Valve's stuff
+For all information, go to the `docs/` directory.
