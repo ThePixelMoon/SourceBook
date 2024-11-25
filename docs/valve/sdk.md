@@ -7,4 +7,4 @@ The **Source SDK** comes in 7 (9, if you count the leaks) versions: *2004, 2006,
 
 To get the *2004-2009* versions of **Source SDK**, use the **Source SDK** app in your [Steam](../steam.md) library. To get the *Alien Swarm SDK*, get it from [Steam](../steam.md) too. To get the *Source SDK 2013*, use [GitHub](https://github.com/ValveSoftware/source-sdk-2013). And for the leaks, *2018* - [here](magnet:?xt=urn:btih:21DDA6847DDE983F2F8063739249D2D1D09A5DDA&dn=April%2022nd%202020%2c%20random%20leaked%20shit.rar&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce), *2003* - [here](https://github.com/Clepoy3/LeakNet)
 
-> WARNING: We do NOT reccomend you to use the leaked versions of Source for commercial purposes. We are NOT obligated for the consequences after.
+> WARNING: We do NOT recommend using leaked versions of Source for commercial purposes. We are NOT responsible for any consequences that may arise from doing so.
