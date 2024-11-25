@@ -1,2 +1,1 @@
-# SourceBook
-If you are a super-super begineer, check **steam.md** for first.
+SourceBook is a book about Valve's games, SDK's and stuff. Why? So people wouldn't annoy other people.
